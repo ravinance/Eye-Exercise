@@ -1,12 +1,13 @@
 # Eye-Exercise
 
 ## description
-The eye exercise
+
+This exercise was done during my training in M.I.T in 2021 
+The eye exercise allow the user to see eyes follow the mouse cursor. 
 
 
 ## How to use
-
-Just move the mouse around the eyes and see it follow your cursor ! 
+Run the index.html and move the mouse around the eyes and see it follow your cursor ! 
 
 ## Roadmap of improvements
 
